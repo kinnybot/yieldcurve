@@ -1,0 +1,4 @@
+pandas==1.2.3
+pandas-datareader==0.9.0
+matplotlib==3.2.2
+gif==3.0.0
